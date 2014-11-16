@@ -1,0 +1,20 @@
+total 60
+-rw-rw-r-- 1 philippe philippe   0 Nov 15 23:25 aFile
+-rw-rw-r-- 1 philippe philippe 521 Nov 15 23:28 Appender.py
+-rw-rw-r-- 1 philippe philippe 557 Nov 15 23:27 Appender.py~
+-rw-rw-r-- 1 philippe philippe 824 Nov 15 20:10 batch.py
+-rw-rw-r-- 1 philippe philippe 836 Nov 15 20:09 batch.py~
+-rw-rw-r-- 1 philippe philippe 532 Nov 15 19:58 changeAllNames.py
+-rw-rw-r-- 1 philippe philippe 528 Nov 15 19:57 changeAllNames.py~
+-rw-rw-r-- 1 philippe philippe 278 Nov 15 19:51 changeName.py
+-rw-rw-r-- 1 philippe philippe 278 Nov 15 19:50 changeName.py~
+-rw-rw-r-- 1 philippe philippe 125 Nov 15 20:09 createDummyPNG.py
+-rw-rw-r-- 1 philippe philippe 126 Nov 15 20:03 createDummyPNG.py~
+-rw-rw-r-- 1 philippe philippe 110 Nov 15 23:11 fileLs.py
+-rw-rw-r-- 1 philippe philippe  99 Nov 15 23:09 fileLs.py~
+-rw-rw-r-- 1 philippe philippe   0 Nov 15 23:29 lslog.txt
+-rw-rw-r-- 1 philippe philippe 157 Nov 15 23:07 myLs.py
+-rw-rw-r-- 1 philippe philippe 165 Nov 15 23:07 myLs.py~
+-rw-rw-r-- 1 philippe philippe  20 Nov 15 23:17 signature.txt
+-rw-rw-r-- 1 philippe philippe   0 Nov 15 23:17 signature.txt~
+Philippe Sasseville
