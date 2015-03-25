@@ -2,7 +2,7 @@ scripting
 
 ==============================================================================
 
-This repository contains script in python i have writed for learning purpuses.
+This repository contains script in python i wrote for learning purpuses.
 
 ==============================================================================
 
